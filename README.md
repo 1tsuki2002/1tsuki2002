@@ -1,7 +1,7 @@
 ## Olá! Mundo
 
 - 🔭 Trabalhando atualmente como consultor tecnico
-- 🌱 Estudando Html, Css e JavaScript
+- 🌱 Estudando Html, Css e JavaScript / Frameworks: React
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-barbosa-borges-413613122/)
 
